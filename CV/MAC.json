@@ -169,6 +169,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
