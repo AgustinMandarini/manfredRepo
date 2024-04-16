@@ -1,0 +1,125 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Agustin",
+      "surnames": "Mandarini",
+      "title": "Full Stack Developer | Python Developer | Apache Airflow | Docker | Javascript | NodeJS | Express | Sequelize | Postgresql | SQL | Django | Azure |",
+      "description": "Background\nElectronic Security Technician\n\nWho I Am:\nI am a Fullstack Developer and a passionate, goal-driven individual. When approaching new projects, I take an active role in creating collaborative work environments, fostering unity, synergy, and strong interpersonal relationships within the team to produce excellent code and end products. My experience in designing and building electronic security systems has taught me the value of teamwork and creating and implementing original solutions to network and electrical infrastructure challenges.\n\nMy Interests:\nProfessionally, I am interested in contributing to innovative projects that offer simple and efficient solutions for the client. I seek to continue learning new technologies and implementing novel software architectures and design patterns.\n\nPersonally, I have a strong interest in nature, the mountains, a healthy lifestyle, nurturing meaningful relationships, and sharing my life with my family and friends.\n\nContact:\nEmail: agustinmandarini47@gmail.com\nPhone: +54911 39534746\n\n-----------------------------------------------------------------------------------------------------------------------------------------------------------\n\nBackground\nTecnico en Seguridad Electronica\n\nQuien soy:\nSoy Fullstack Developer y una persona apasionada y comprometida con sus objetivos. Al encarar nuevos proyectos me ocupo activamente de generar ambientes de trabajo colaborativos, de fomentar la unión, la sinergia y las buenas relaciones interpersonales en el equipo para producir código y productos finales de excelencia. Mi experiencia diseñando y construyendo sistemas de seguridad electrónica me enseñó a trabajar en equipo, a crear e implementar soluciones originales a problemas de infraestructura de redes y electricidad.\n\nMis intereses:\nEn lo profesional, me interesa contribuir a proyectos innovadores que planteen soluciones simples y eficientes para el cliente. Busco seguir aprendiendo nuevas tecnologías e implementar arquitecturas de software y patrones de diseño novedosos.\nEn lo personal, me interesa la naturaleza, la montaña, la vida sana, las buenas relaciones, compartir mi vida con mi familia y mis amigos.\n\nContacto:\nagustinmandarini47@gmail.com\n+54911 39534746",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/4f8d4b74-9bbb-4d50-999d-f1c062041b7e_linkedin-photo-59991.linkedin-photo-59991",
+        "alt": "24/04/16/4f8d4b74-9bbb-4d50-999d-f1c062041b7e_linkedin-photo-59991.linkedin-photo-59991"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5WDIIBV7GpYRZZp7y5euEII)",
+        "country": "Argentina",
+        "region": "Río Negro",
+        "municipality": "San Carlos de Bariloche"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/agustin-mandarini-8a73a4225"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "CatchCorner by Sports Illustrated",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/8d150b10-0ebf-4d5c-999f-5bafe20e92cc_linkedin-photo-59991.linkedin-photo-59991",
+            "alt": "24/04/16/8d150b10-0ebf-4d5c-999f-5bafe20e92cc_linkedin-photo-59991.linkedin-photo-59991"
+          }
+        },
+        "roles": [
+          {
+            "name": "Python Developer | Data Engineering",
+            "startDate": "2023-12-01",
+            "challenges": [
+              {
+                "description": "Designing, developing, and deploying a task orchestration and scheduling system through the creation and optimization of data pipelines. Together with my team, we successfully created and implemented data automation for hundreds of clients using Python scripts with libraries such as Selenium, BeautifulSoup, pandas, etc. Subsequently, we architected the entire system using Apache Airflow and its dependencies deployed to Microsoft Azure microservices using Azure Container Instances and Azure Kubernetes Services."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Henry",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/656ff1f9-1be5-4513-87d2-1d1cbea8b0a5_linkedin-photo-59991.linkedin-photo-59991",
+            "alt": "24/04/16/656ff1f9-1be5-4513-87d2-1d1cbea8b0a5_linkedin-photo-59991.linkedin-photo-59991"
+          }
+        },
+        "roles": [
+          {
+            "name": "Student Teaching Assistant",
+            "startDate": "2023-07-01",
+            "challenges": [
+              {
+                "description": "Asistente de enseñanza (TA) para alumnos de Henry (Carrera Full Stack Developer)\nTareas principales:\n• Coordinar el grupo de estudiantes con el objetivo de lograr su adaptación al programa.\n• Orientar a los estudiantes en los primeros pasos de la cursada y resolver sus inquietudes\n• Asistir y acompañar en la resolución de ejercicios y promover la colaboración grupal (Pair Programming).\n• Proponer ideas para la mejora de los procesos del Bootcamp.\n• Promover la cohesión grupal y generar comunidad.\n\n(Full-Stack) Teaching Assistant\nTeaching Assistant (TA) for students at Henry Bootcamp.\nMain tasks:\n• Coordinate a group of new joining students throughout the whole bootcamp experience\n• Guide students in the first steps of the course and clarify their doubts\n• Provide assistance in solving exercises and encourage group teamwork (Pair Programming).\n• Suggest ideas to improve the Bootcamp processes.\n• Promote collaboration and build community within the students"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Baldor SRL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/7a1b013a-0288-4f95-b072-d2c51eb84658_linkedin-photo-59991.linkedin-photo-59991",
+            "alt": "24/04/16/7a1b013a-0288-4f95-b072-d2c51eb84658_linkedin-photo-59991.linkedin-photo-59991"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Python",
+            "startDate": "2023-05-01",
+            "challenges": [
+              {
+                "description": "Development of a Python application for a workplace safety vibration analyzer device. The application allows the operator to input company data and select the instrument to be used, establish a connection with the equipment, download data, and finally present it in a report, including graphical representations. Additionally, it includes a COM port connection with the motherboard.\n\nDesarrollo de una aplicacion en python para un equipo analizador de vibraciones para gestion de seguridad en ambientes laborales. La aplicacion permite al operario cargar datos de la empresa y el instrumento a utilizar, realizar una conexion con el equipo, hacer una descarga de datos y finalmente presentarlos en un informe, utilizando tambien graficos y una conexion de puerto com con la placa base."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ejército Argentino",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/16/a0dbf1ab-aa35-4eaf-b936-54f4d525ed27_linkedin-photo-59991.linkedin-photo-59991",
+            "alt": "24/04/16/a0dbf1ab-aa35-4eaf-b936-54f4d525ed27_linkedin-photo-59991.linkedin-photo-59991"
+          }
+        },
+        "roles": [
+          {
+            "name": "Operador de telecomunicaciones",
+            "startDate": "2012-11-01",
+            "finishDate": "2024-01-31"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/agustin-mandarini-8a73a4225",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "agustinmandarini47@gmail.com"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
