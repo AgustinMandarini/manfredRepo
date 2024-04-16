@@ -109,6 +109,13 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
