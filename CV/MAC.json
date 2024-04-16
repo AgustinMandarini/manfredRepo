@@ -173,6 +173,10 @@
           "type": "technology"
         },
         {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
           "name": "Django",
           "type": "technology"
         },
