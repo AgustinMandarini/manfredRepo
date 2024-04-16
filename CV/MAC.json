@@ -169,6 +169,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Airflow",
+          "type": "technology"
+        },
+        {
           "name": "Django",
           "type": "technology"
         },
